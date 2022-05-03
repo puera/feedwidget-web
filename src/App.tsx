@@ -1,6 +1,6 @@
-import { Widget } from './components/Widget'
-import './global.css'
+import { Widget } from './components/Widget';
+import './global.css';
 
 export function App() {
-  return <Widget />
+  return <Widget />;
 }

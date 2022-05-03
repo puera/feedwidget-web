@@ -25,6 +25,11 @@
         "prettier"
     ],
     "rules": {
+        "react/jsx-no-useless-fragment": "off",
+        "react/jsx-no-bind": "off",
+        "global-require": "off",
+        "import/no-extraneous-dependencies": "off",
+        "import/no-cycle": "off",
         "import/prefer-default-export": "off",
         "@typescript-eslint/no-non-null-assertion": "off",
         "react/react-in-jsx-scope": "off",
